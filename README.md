@@ -1,1 +1,2 @@
-# Expensetrackerapp2
+# React-ExpenseTracker
+ React Project
